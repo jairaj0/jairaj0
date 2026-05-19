@@ -1,185 +1,269 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:8b5cf6,50:a855f7,75:d946ef,100:ec4899&height=220&section=header&text=Jai%20Rawat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Engineer%20%E2%80%A2%20Creative%20Developer%20%E2%80%A2%20Product%20Builder&descSize=17&descColor=ffffffcc&descAlignY=55" width="100%" />
+
 <div align="center">
 
-# Jai Rawat
+<br>
 
-**Frontend Engineer · Web3 · AI Integration · SaaS**
+<!-- Typing Animation -->
+<a href="https://www.jairwt.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%E2%9C%A8+I+build+things+that+move%2C+think+%26+make+money;%F0%9F%8E%AC+Animated+Websites+%C2%B7+AI+Products+%C2%B7+Web3+Systems;%F0%9F%9A%80+GSAP+%C2%B7+Lenis+%C2%B7+Next.js+%C2%B7+Solana+%C2%B7+Claude+API;%E2%9A%A1+Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+</a>
 
-I build high-performance web products — from cinematic scroll experiences to DeFi platforms to AI-powered SaaS tools.  
-Not just a developer. A systems thinker who ships production-ready products.
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jairwt.com)
+[![Portfolio](https://img.shields.io/badge/🌐_jairwt.com-6366f1?style=for-the-badge&logoColor=white)](https://www.jairwt.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairawat0/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JaiRawat0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairwtdev@gmail.com)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/@JaiRawat0-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JaiRawat0)
+&nbsp;
+[![Email](https://img.shields.io/badge/jairwtdev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairwtdev@gmail.com)
+
+<br><br>
 
 </div>
 
----
+<!-- Colorful Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=2" width="100%" />
 
-### What I do
-
-I sit at the intersection of **design engineering**, **Web3**, and **AI** — building products that are fast, beautiful, and actually useful.
-
-🎬 **Animated & Interactive Web** — Scroll-driven storytelling, cinematic transitions, immersive landing pages using GSAP, Lenis, and Framer Motion. The kind of websites that make people stop scrolling.
-
-🤖 **AI-Powered Products** — LLM integrations, AI agents, intelligent automation tools, and SaaS platforms with AI at the core. Not chatbot wrappers — real product-level AI architecture.
-
-🔗 **Web3 & DeFi Interfaces** — DEX swap UIs, token presale platforms, wallet-connected dApps, real-time trading dashboards. Full pipeline from wallet auth to on-chain execution.
-
-⚙️ **SaaS & Full-Stack Platforms** — End-to-end product builds with auth, payments, dashboards, real-time data, and API architecture. Production-grade systems, not toy projects.
-
----
-
-### Tech stack
-
-<details>
-<summary><b>Frontend & Animation</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=000)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis_Scroll-000?style=flat&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<div align="center">
 
-</details>
+### 💫 &nbsp; Who am I?
 
-<details>
-<summary><b>Web3 & Blockchain</b></summary>
+</div>
+
 <br>
 
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/EVM_Chains-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![RainbowKit](https://img.shields.io/badge/RainbowKit-032463?style=flat&logoColor=white)
-![Reown](https://img.shields.io/badge/Reown-3B99FC?style=flat&logoColor=white)
-![Jupiter](https://img.shields.io/badge/Jupiter_API-000?style=flat&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contract_Integration-F6851B?style=flat&logoColor=white)
+> **Not your average developer.**  
+> I sit at the crossroads of **motion design**, **AI engineering**, and **Web3** — crafting products that  
+> look cinematic, think intelligently, and handle real transactions.
+> 
+> Most devs build features. **I build products that make businesses money.**
 
-</details>
-
-<details>
-<summary><b>AI & Integrations</b></summary>
 <br>
 
-![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-000?style=flat&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-4B0082?style=flat&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logoColor=white)
-![Third Party APIs](https://img.shields.io/badge/API_Integrations-FF6F00?style=flat&logoColor=white)
+<!-- Colorful Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=2" width="100%" />
 
-</details>
-
-<details>
-<summary><b>Backend & Database</b></summary>
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=flat&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+<div align="center">
 
-</details>
+### 🛠️ &nbsp; Tech arsenal
 
----
+<br>
 
-### Featured projects
+<p>
+<a href="https://www.jairwt.com"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend" /></a>
+</p>
 
-> Most production work is in private repos (client projects). Public showcases coming soon.
+**Frontend & UI** — React · Next.js · TypeScript · Tailwind · HTML5 · CSS3
+
+<br>
+
+<p>
+<a href="https://www.jairwt.com"><img src="https://skillicons.dev/icons?i=threejs,blender,figma&theme=dark" alt="Animation" /></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" height="30" />
+<img src="https://img.shields.io/badge/Lenis-000?style=for-the-badge&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Framer_Motion-05F?style=for-the-badge&logo=framer&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/ScrollTrigger-88CE02?style=for-the-badge&logoColor=000" height="30" />
+</p>
+
+**Animation & Creative** — GSAP · ScrollTrigger · Lenis · Framer Motion · Three.js
+
+<br>
+
+<p>
+<a href="https://www.jairwt.com"><img src="https://skillicons.dev/icons?i=solana,ethereum&theme=dark" alt="Web3" /></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupiter_API-9945FF?style=for-the-badge&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Reown-3B99FC?style=for-the-badge&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/RainbowKit-032463?style=for-the-badge&logoColor=white" height="30" />
+</p>
+
+**Web3 & Blockchain** — Solana · EVM Chains · Jupiter · Reown · RainbowKit · Smart Contracts
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/LLM_Integration-4B0082?style=for-the-badge&logoColor=white" height="30" />
+</p>
+
+**AI & Intelligence** — Claude API · OpenAI · LLM Integration · AI Agents · Prompt Engineering
+
+<br>
+
+<p>
+<a href="https://www.jairwt.com"><img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres,vercel,git&theme=dark" alt="Backend" /></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white" height="30" />
+</p>
+
+**Backend & Infra** — Node.js · Supabase · Firebase · PostgreSQL · Stripe · WebSocket · Vercel
+
+<br>
+
+</div>
+
+<!-- Colorful Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=2" width="100%" />
+
+<br>
+
+<div align="center">
+
+### 🚀 &nbsp; What I build
+
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**🎬 Animated & Scroll-Driven Sites**
-<br>
-Cinematic landing pages, parallax storytelling, GSAP ScrollTrigger animations, Lenis smooth scroll — premium web experiences built for agencies and startups.
-<br><br>
-`GSAP` `Lenis` `ScrollTrigger` `Next.js` `Framer Motion`
+<img src="https://img.shields.io/badge/🎬_ANIMATED_WEB-6366f1?style=for-the-badge" />
+
+**Scroll-driven storytelling**  
+**Cinematic transitions**  
+**Immersive landing pages**
+
+GSAP · Lenis · ScrollTrigger  
+Framer Motion · Three.js
+
+*The kind of sites that*  
+*make people stop scrolling.*
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**🤖 AI-Powered SaaS Platforms**
-<br>
-Full-stack SaaS products with AI at the core — LLM integrations, intelligent dashboards, automated workflows, subscription billing, and real-time features.
-<br><br>
-`Claude API` `OpenAI` `Supabase` `Stripe` `Next.js`
+<img src="https://img.shields.io/badge/🤖_AI_PRODUCTS-8b5cf6?style=for-the-badge" />
+
+**AI-powered SaaS platforms**  
+**LLM integrations & agents**  
+**Intelligent automation**
+
+Claude API · OpenAI · Supabase  
+Stripe · Next.js
+
+*Not chatbot wrappers —*  
+*real product-level AI.*
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**🔗 DeFi & Web3 Interfaces**
-<br>
-DEX swap UIs with real backend routing, token presale platforms, wallet authentication, on-chain trading systems — Solana and EVM chains.
-<br><br>
-`Solana` `Jupiter API` `Reown` `RainbowKit` `WebSocket`
+<img src="https://img.shields.io/badge/🔗_WEB3_&_DEFI-a855f7?style=for-the-badge" />
+
+**DEX swap interfaces**  
+**Token presale platforms**  
+**Wallet-connected dApps**
+
+Solana · Jupiter API · Reown  
+RainbowKit · Smart Contracts
+
+*Full pipeline from wallet*  
+*auth to on-chain execution.*
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**📊 Real-Time Trading Dashboards**
-<br>
-Live market visualization with WebSocket data streams, candlestick charts, portfolio tracking, order books — crypto and Indian markets (NSE/BSE).
-<br><br>
-`WebSocket` `Lightweight Charts` `Binance API` `React` `Supabase`
+<img src="https://img.shields.io/badge/📊_REALTIME_SYSTEMS-ec4899?style=for-the-badge" />
+
+**Trading dashboards**  
+**Live market visualization**  
+**WebSocket data streams**
+
+Binance API · Lightweight Charts  
+WebSocket · Supabase Realtime
+
+*When milliseconds matter —*  
+*charts, orderbooks, portfolios.*
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### How I work
+<!-- Colorful Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=2" width="100%" />
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   Product Thinking    →    System Design    →    Fast Shipping   │
-│                                                                 │
-│   I don't start        I architect the        AI-assisted       │
-│   with code.           whole system           workflows =       │
-│   I start with         before writing         3-5x faster       │
-│   "what problem        a single line.         delivery.         │
-│   are we solving?"                                              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-- **Product-first** — I think about what users need, not just what the spec says
-- **AI-augmented** — I leverage AI tools to ship faster without cutting quality
-- **Direct communication** — No fluff, no unnecessary meetings. Scope → Build → Ship
-- **Full ownership** — From architecture to deployment, I handle the entire pipeline
-
----
-
-### Currently exploring
-
-🔬 Multi-layered AI architecture — separating reasoning, evidence, and language into independent systems  
-🛠️ AI agent frameworks for real-world automation  
-📈 Indian market data integration (NSE/BSE) for trading platforms  
-🎮 On-chain gaming with skill-based mechanics and smart contract payouts
-
----
+<br>
 
 <div align="center">
 
-**171+ repos · 1,079+ contributions · Building since 2020**
+### ⚡ &nbsp; How I operate
 
-Open for freelance projects, SaaS collaborations, and agency partnerships.  
-If you're building something ambitious — let's talk.
+<br>
 
-[![Hire Me](https://img.shields.io/badge/Available_for_Work-00C853?style=for-the-badge&logoColor=white)](mailto:your-email@example.com)
+| | |
+|:---:|:---|
+| 🧠 | **Product-first thinking** — I start with the problem, not the framework |
+| 🤖 | **AI-augmented speed** — I ship 3-5x faster with AI-assisted workflows |
+| 💬 | **Zero-fluff communication** — Clear scope → Fast execution → Ship |
+| 🔐 | **Full ownership** — Architecture to deployment, I handle the pipeline |
+| 🎯 | **Results over resumes** — I care about what works, not what sounds impressive |
+
+<br>
 
 </div>
+
+<!-- Colorful Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=2" width="100%" />
+
+<br>
+
+<div align="center">
+
+### 🔬 &nbsp; Currently exploring
+
+<br>
+
+🧪 Multi-layered AI architecture — reasoning, evidence & language as independent systems  
+🛠️ AI agent frameworks for real-world business automation  
+📈 Indian stock market integration (NSE/BSE) for trading platforms  
+🎮 On-chain gaming — skill-based mechanics with smart contract payouts  
+
+<br>
+
+</div>
+
+<!-- Colorful Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=2" width="100%" />
+
+<br>
+
+<div align="center">
+
+```
+⚡ 171+ repositories · 1,079+ contributions · shipping since 2020 ⚡
+```
+
+<br>
+
+### Let's build something together.
+
+Clients, startups, and agencies — if you need something built right and built fast:
+
+<br>
+
+[![Let's Talk](https://img.shields.io/badge/📩_Let's_Talk-6366f1?style=for-the-badge&logoColor=white)](mailto:jairwtdev@gmail.com)
+&nbsp;&nbsp;
+[![See My Work](https://img.shields.io/badge/🌐_See_My_Work-a855f7?style=for-the-badge&logoColor=white)](https://www.jairwt.com)
+&nbsp;&nbsp;
+[![Connect](https://img.shields.io/badge/🤝_Connect-ec4899?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jairawat0/)
+
+<br><br>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:8b5cf6,50:a855f7,75:d946ef,100:ec4899&height=120&section=footer" width="100%" />
