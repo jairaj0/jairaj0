@@ -7,10 +7,10 @@
 I build high-performance web products — from cinematic scroll experiences to DeFi platforms to AI-powered SaaS tools.  
 Not just a developer. A systems thinker who ships production-ready products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jairwt.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairawat0/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JaiRawat0)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairwtdev@gmail.com)
 
 </div>
 
